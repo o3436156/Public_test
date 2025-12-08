@@ -1,0 +1,81 @@
+                <li>*****</li>
+                <li>****</li>
+                <li>***</li>
+                <li>**</li>
+                <li>*</li>
+                <ul>
+                 
+<hr>     
+        <table> 
+       <tr>
+         <th> this</th>
+         <th> is </th>
+        <tr>
+          <td>a</td>
+          <td>table</td>
+       </tr>
+     </table>  
+          <hr>  
+   <button id="click-button">Click me!</button>   
+<hr>   
+
+<div style="width: 100px; height: 2px; background-color: red;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: orange;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: yellow;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: green;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: blue;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: purple;"></div>
+  
+<div style="width: 100px; height: 2px; background-color: red;"><div>
+                 
+<div style="width: 100px; height: 2px; background-color: orange;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: yellow;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: #008000;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: blue;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: purple;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: black;"><div>
+  
+<div style="width: 100px; height: 2px; background-color: red;"><div>
+                 
+<div style="width: 100px; height: 2px; background-color: orange;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: yellow;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: green;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: blue;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: purple;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: black;"></div>
+  
+<div style="width: 100px; height: 2px; background-color: red;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: orange;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: yellow;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: green;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: blue;"></div>
+                 
+<div style="width: 100px; height: 2px; background-color: purple;"></div>
+              
+<div style="widh: 100px; height: 2px; background-color: black;"></div>
+<hr>
+                 
+                 
+  
+       
+   </body>
+</html>
